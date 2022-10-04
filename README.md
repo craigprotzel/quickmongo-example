@@ -2,7 +2,7 @@
 
 * Install home-brew
 * https://brew.sh/
-* `brew tap mongodb/brew
+* `brew tap mongodb/brew`
 * `brew update `
 * `brew install mongodb-community@6.0`
 
